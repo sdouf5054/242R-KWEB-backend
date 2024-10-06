@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "express": "^4.21.0",
+    "lodash": "^4.17.21",
+    "pug": "^3.0.3"
+  },
+  "name": "242r-kweb-backend",
+  "version": "1.0.0",
+  "description": "24-2 케이웹 백엔드 스터디 과제입니다.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
