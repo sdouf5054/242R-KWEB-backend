@@ -1,0 +1,11 @@
+form(method="post", action="/login")
+  div
+    label(for="username-input") Username:
+    input#username-input(name="username", type="text")
+  div
+    label(for="password-input") Password:
+    input#password-input(name="password", type="password")
+  div
+    div Introduce yourself
+    textarea#introduction-input(name="introduction")
+  button(type="submit") Submit
